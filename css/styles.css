@@ -1,0 +1,91 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar{
+  margin-left:0px;
+  padding-left: 4px;
+}
+
+
+#title{
+  background-color:#ff4c68;
+  color:white;
+}
+
+.welcome-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+  size: 2rem;
+ 
+}
+
+#container-grid{
+  padding: 3% 10%;
+}
+
+#container-grid button img{
+  width:20px;
+  height:20px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+#container-nav{
+  padding:3% 7%;
+}
+
+#tindog{
+  font-family: 'Ubuntu';
+  font-size:1.9rem;
+}
+
+#navbarSupportedContent{
+  font-size:1.3rem;
+}
+
+.download-button{
+  padding-bottom:10px;
+  margin:5% 5% 5% 0;
+  
+}
+
+.apple-icon{
+  margin-bottom: 5px;
+ 
+}
+
+
+
+@media only screen and (orientation: landscape) {
+  /* For mobile phones: */
+  .cover-image {
+    
+  margin-left:20px;
+  margin-top:30px;
+  width:60%;
+  transform:rotate(20deg);
+}
+
+@media only screen and (orientation:portrait
+
+) {
+  /* For mobile phones: */
+  .cover-image{
+    
+  margin-left:20px;
+  margin-top:30px;
+  width:60%;
+  visibility:hidden;
+}
+
+.cover-img-container{
+
+}
