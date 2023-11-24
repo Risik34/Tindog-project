@@ -113,6 +113,37 @@ i:hover{
   padding:20px 0px;
 }
 
-.col-md-4:hover{
-  background-color: #1a1a1a;
+
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+  color:white;
+  font-family:"monsterrat-bold";
+  
+}
+
+.carousel-inner{
+  padding: 7% 15%;
+}
+
+/* PRESS */
+
+#press{
+  text-align: center;
+  background-color: #ff4c68;
+  padding:2% 10%;
+  
+}
+#press img{
+  width:20%;
+  height:10%;
+}
+
+
+#pricing{
+  text-align: center;
+  padding:7% 8%;
 }
